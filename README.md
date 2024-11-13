@@ -1,6 +1,6 @@
 # TikTok Account Location Finder
 
-TikTok by default and with no way to turn it off, has your region publicly on your profile, bust just not displayed!
+TikTok by default and with no way to turn it off, has your region public on your profile, bust just not displayed!
 The region is derived from your sim card, making it impossible to hide your location via a VPN or other means.
 
 This is a proof of concept script that allows anyone to query this information for any TikTok user.
